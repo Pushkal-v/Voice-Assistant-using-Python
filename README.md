@@ -12,4 +12,8 @@ This is a Python-based **Voice-Activated Personal Assistant** project that can p
 ## Notes
 
 - The `requirements.txt` file is not included yet but will be updated soon.  
-- This project uses **Python TTS engine**, **Speech Recognition**, and **APIs for weather and news updates**.  
+- This project uses **Python TTS engine**, **Speech Recognition**, and **APIs for weather and news updates**.
+
+## To Run
+
+- **python voice_assistant.py ** to run the voice assistant
