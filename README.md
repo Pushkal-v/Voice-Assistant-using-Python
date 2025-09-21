@@ -16,4 +16,4 @@ This is a Python-based **Voice-Activated Personal Assistant** project that can p
 
 ## To Run
 
-- **python voice_assistant.py ** to run the voice assistant
+- **python voice_assistant.py** to run the voice assistant
